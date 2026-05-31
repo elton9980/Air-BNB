@@ -1,2 +1,2 @@
 # Air-BNB
-Major project on AIr Bnb website
+Major project on Air Bnb website
